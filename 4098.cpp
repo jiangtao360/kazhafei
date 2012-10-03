@@ -6,6 +6,8 @@
  *
  */
 
+//kazhafei go go go
+
 #include <cstdio>
 
 int main(void)
